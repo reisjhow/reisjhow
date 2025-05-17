@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonathan V. Reis
 
-I'm a Systems Analyst from Paraná, Brazil 🇧🇷  
+I'm a Systems Analyst from Paraná, Brasil 🇧🇷  
 Currently studying **Machine Learning & Big Data** at **Universidade Estadual de Londrina (UEL)**  
 I have 3+ years of experience in IT, working with infrastructure, support, and backend development.
 
